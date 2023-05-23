@@ -1,3 +1,3 @@
 Git Book Study
 
-First commit
+First Clone
